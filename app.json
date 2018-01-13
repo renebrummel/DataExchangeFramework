@@ -1,0 +1,23 @@
+{
+  "id": "be2e6200-2860-408f-9b86-8f5b422e77d2",
+  "name": "DEF Add UnitPrice And UOM",
+  "publisher": "The Learning Network",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50300
+  }
+}
